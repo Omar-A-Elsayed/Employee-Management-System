@@ -19,8 +19,6 @@ The Employee Management System is a console-based Node.js application that helps
 
 ## Technologies Used
 
-## Technologies Used
-
 - **Node.js**: The main programming language used to develop the application, allowing JavaScript code to run on the server.
 - **prompt-sync**: A library used for synchronous user input in the console, making it easy to interact with users.
 
